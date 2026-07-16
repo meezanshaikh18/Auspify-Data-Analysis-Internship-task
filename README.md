@@ -1,37 +1,52 @@
 # 📊 Auspify Data Analysis Internship
 
-Welcome to my **Data Analysis Internship** repository at **Auspify Technologies**.
+Welcome to my **Data Analysis Using Python Internship** repository at **Auspify Technologies**.
 
-This repository documents my journey throughout the internship, where I complete practical data analysis projects using Python and industry-standard libraries. Each task focuses on solving real-world business problems through data cleaning, visualization, exploratory analysis, and reporting.
-
----
-
-## 🚀 Internship Overview
-
-- 🏢 **Organization:** Auspify Technologies
-- 💼 **Role:** Data Analysis Intern
-- 📅 **Program Duration:** 4 Weeks
-- 🐍 **Programming Language:** Python
-- 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- 📊 **Focus Areas:**
-  - Data Cleaning
-  - Exploratory Data Analysis (EDA)
-  - Data Visualization
-  - Business Insights
-  - Reporting
+This repository documents my internship journey through practical data analysis projects using **Python** and industry-standard data analysis libraries. Throughout the internship, I build real-world solutions by cleaning datasets, performing exploratory data analysis, creating visualizations, and generating business insights.
 
 ---
 
-# 🎯 Internship Objective
+# 🚀 Internship Overview
 
-The internship is designed to provide hands-on experience with real-world datasets by completing practical data analysis tasks. It helps strengthen analytical thinking, Python programming skills, and portfolio development through project-based learning.
+* 🏢 **Organization:** Auspify Technologies
+* 💼 **Role:** Data Analysis Using Python Intern
+* 📅 **Program Duration:** 4 Weeks
+* 💻 **Mode:** Remote Internship
+* 🐍 **Programming Language:** Python
+
+The internship is designed to provide practical exposure to real-world datasets through project-based learning. Interns complete hands-on tasks that strengthen data analysis, visualization, reporting, and problem-solving skills while building a professional portfolio.
+
+---
+
+# 🎯 Internship Objectives
+
+* Develop practical Data Analysis skills using Python.
+* Work with real-world datasets.
+* Build industry-ready analytical projects.
+* Improve problem-solving and reporting skills.
+* Maintain professional documentation using Git & GitHub.
+* Build a strong project portfolio.
+
+---
+
+# 🛠 Tech Stack
+
+| Category        | Technologies        |
+| --------------- | ------------------- |
+| Programming     | Python              |
+| Data Analysis   | Pandas, NumPy       |
+| Visualization   | Matplotlib, Seaborn |
+| Development     | VS Code             |
+| Version Control | Git, GitHub         |
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 Auspify-Data-Analysis-Internship/
+│
+├── README.md
 │
 ├── Task - 1 (Netflix Data Cleaning & Preparation)/
 │   ├── Dataset.csv
@@ -41,115 +56,141 @@ Auspify-Data-Analysis-Internship/
 │   ├── README.md
 │   └── Screenshot/
 │
-├── Task - 2/
-├── Task - 3/
-├── Task - 4/
-├── Task - 5/
-├── Task - 6/
-│
-└── README.md
+├── Task - 2 (Content Type Analysis Dashboard)/
+├── Task - 3 (Country-Wise Netflix Content Analysis)/
+├── Task - 4 (Trend Analysis by Release Year)/
+├── Task - 5 (Content Rating & Genre Analysis)/
+└── Task - 6 (Netflix Business Insights Report)/
 ```
 
 ---
 
-# 📋 Internship Tasks
+# 📋 Internship Roadmap
 
-| Task | Difficulty | Status |
-|------|------------|--------|
-| ✅ Task 1 – Netflix Data Cleaning & Preparation | Easy | Completed |
-| ⏳ Task 2 – Content Type Analysis Dashboard | Easy | Coming Soon |
-| ⏳ Task 3 – Country-Wise Netflix Content Analysis | Medium | Coming Soon |
-| ⏳ Task 4 – Trend Analysis by Release Year | Medium | Coming Soon |
-| ⏳ Task 5 – Content Rating & Genre Analysis | Advanced | Coming Soon |
-| ⏳ Task 6 – Netflix Business Insights Report | Advanced | Coming Soon |
+The internship consists of **six practical projects**, and successful completion requires finishing **any four** of them.
 
----
-
-# 🛠 Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / VS Code
-- Git & GitHub
+| Task                                             | Difficulty | Status    |
+| ------------------------------------------------ | ---------- | --------- |
+| ✅ Task 1 – Netflix Data Cleaning & Preparation   | Easy       | Completed |
+| ⏳ Task 2 – Content Type Analysis Dashboard       | Easy       | Planned   |
+| ⏳ Task 3 – Country-Wise Netflix Content Analysis | Medium     | Planned   |
+| ⏳ Task 4 – Trend Analysis by Release Year        | Medium     | Planned   |
+| ⏳ Task 5 – Content Rating & Genre Analysis       | Advanced   | Planned   |
+| ⏳ Task 6 – Netflix Business Insights Report      | Advanced   | Planned   |
 
 ---
 
-# 📚 Skills Developed
+# 📈 Internship Progress
 
-Throughout this internship, I am building practical experience in:
+| Metric           | Status  |
+| ---------------- | ------- |
+| Required Tasks   | **4**   |
+| Available Tasks  | **6**   |
+| Completed        | **1**   |
+| Current Progress | **25%** |
 
-- Data Cleaning & Preprocessing
-- Handling Missing Values
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Analytics
-- Report Generation
-- Problem Solving
-- Git & GitHub Workflow
+Progress Bar
+
+```text
+█████░░░░░░░░░░░░░░ 25%
+```
 
 ---
 
-# 📌 Completed Work
+# ✅ Completed Project
 
-## ✅ Task 1 – Netflix Data Cleaning & Preparation
+## Task 1 – Netflix Data Cleaning & Preparation
 
-**Objective**
+### Project Goal
 
-Prepare and organize the Netflix dataset for business analytics by cleaning missing values, removing duplicates, standardizing data, and exporting a clean dataset ready for analysis.
+Prepare a raw Netflix dataset for business analytics by cleaning, organizing, and standardizing the data.
+
+### Key Tasks Performed
+
+* Imported dataset using Pandas
+* Explored dataset structure
+* Handled missing values
+* Removed duplicate records
+* Standardized categorical columns
+* Converted date columns
+* Cleaned duration values
+* Exported cleaned dataset
+* Generated cleaning report
 
 ### Deliverables
 
-- ✔ Python Cleaning Script
-- ✔ Cleaned Dataset
-- ✔ Cleaning Report
-- ✔ Project Documentation
-- ✔ Screenshots
+* ✅ Python Source Code
+* ✅ Cleaned Dataset
+* ✅ Cleaning Report
+* ✅ Project Documentation
+* ✅ Screenshots
 
-📂 Detailed documentation is available inside:
+For complete project documentation, visit:
 
-```
+```text
 Task - 1 (Netflix Data Cleaning & Preparation)/README.md
 ```
 
 ---
 
-# 🎯 Learning Outcomes
+# 📚 Skills Gained
 
-This internship is helping me improve my ability to:
+Throughout this internship, I am strengthening my skills in:
 
-- Work with real-world datasets
-- Build complete data analysis workflows
-- Write clean and reusable Python code
-- Generate meaningful business insights
-- Maintain professional GitHub repositories
-- Document projects effectively
-
----
-
-# 📈 Repository Progress
-
-| Progress | Status |
-|----------|--------|
-| Tasks Completed | **1 / 4 Required** |
-| Total Available Tasks | **6** |
+* Data Cleaning
+* Data Preprocessing
+* Data Transformation
+* Missing Value Handling
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Analytics
+* Python Programming
+* Problem Solving
+* Documentation
+* Git & GitHub
 
 ---
 
-# 🔗 Connect With Me
+# 📌 Repository Highlights
 
-**Meezan Shaikh**
-
-- 💼 LinkedIn: https://linkedin.com/in/meezanshaikh18
-- 💻 GitHub: https://github.com/meezanshaikh18
+* Practical internship projects
+* Real-world datasets
+* Clean and well-documented code
+* Professional GitHub structure
+* Individual README for each task
+* Continuous updates throughout the internship
 
 ---
 
-## ⭐ Support
+# 📅 Upcoming Work
 
-If you found this repository useful, consider giving it a **⭐ Star**.
+* 📊 Content Type Analysis Dashboard
+* 🌍 Country-Wise Netflix Analysis
+* 📈 Release Year Trend Analysis
+* 🎭 Content Rating & Genre Analysis
+* 📑 Netflix Business Insights Report
 
-Thank you for visiting!
+---
+
+# 🤝 Connect With Me
+
+### Meezan Shaikh
+
+* 💻 GitHub: https://github.com/meezanshaikh18
+* 💼 LinkedIn: https://www.linkedin.com/in/meezanshaikh18/
+
+---
+
+# ⭐ Support
+
+If you found this repository helpful or interesting, consider giving it a **⭐ Star**.
+
+It motivates me to continue building and sharing more real-world data analytics projects.
+
+---
+
+## 📜 License
+
+This repository is created for educational purposes as part of the **Auspify Technologies Data Analysis Using Python Internship**.
+
+© 2026 Meezan Shaikh. All rights reserved.
