@@ -1,0 +1,12 @@
+TASK 2 - CONTENT TYPE ANALYSIS DASHBOARD
+=============================================
+Total titles analyzed: 8,790
+Movies: 6,126 (69.7%)
+TV Shows: 2,664 (30.3%)
+Movie-to-TV Show ratio: 2.30 : 1
+
+Key Findings:
+- Movies dominate the Netflix catalog, making up 69.7% of all titles.
+- TV Shows account for the remaining 30.3%, showing Netflix invests
+  considerably less in serialized content compared to films.
+- For every TV Show on the platform, there are roughly 2.3 movies.
