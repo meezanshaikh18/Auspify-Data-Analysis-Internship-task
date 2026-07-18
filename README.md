@@ -8,11 +8,11 @@ This repository showcases my internship journey through real-world data analysis
 
 # 🚀 Internship Overview
 
-- 🏢 **Organization:** Auspify Technologies
-- 💼 **Role:** Data Analysis Using Python Intern
-- 📅 **Duration:** 4 Weeks
-- 🌐 **Mode:** Remote Internship
-- 🐍 **Programming Language:** Python
+* 🏢 **Organization:** Auspify Technologies
+* 💼 **Role:** Data Analysis Using Python Intern
+* 📅 **Duration:** 4 Weeks
+* 🌐 **Mode:** Remote Internship
+* 🐍 **Programming Language:** Python
 
 The internship is designed to strengthen practical data analytics skills through project-based learning using real-world datasets.
 
@@ -20,31 +20,31 @@ The internship is designed to strengthen practical data analytics skills through
 
 # 🎯 Objectives
 
-- Build practical data analysis skills using Python.
-- Perform data cleaning and preprocessing.
-- Create meaningful visualizations and dashboards.
-- Generate business insights from real-world datasets.
-- Develop professional GitHub repositories.
-- Build an industry-ready project portfolio.
+* Build practical data analysis skills using Python.
+* Perform data cleaning and preprocessing.
+* Create meaningful visualizations and dashboards.
+* Generate business insights from real-world datasets.
+* Develop professional GitHub repositories.
+* Build an industry-ready project portfolio.
 
 ---
 
 # 🛠 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| IDE | VS Code |
-| Version Control | Git & GitHub |
+| Category        | Technologies        |
+| --------------- | ------------------- |
+| Programming     | Python              |
+| Data Analysis   | Pandas, NumPy       |
+| Visualization   | Matplotlib, Seaborn |
+| IDE             | VS Code             |
+| Version Control | Git & GitHub        |
 
 ---
 
 # 📁 Repository Structure
 
 ```text
-Meezan-Data-Analytics-Journey/
+Auspify-Data-Analysis-Internship/
 │
 ├── README.md
 │
@@ -66,6 +66,14 @@ Meezan-Data-Analytics-Journey/
 │   └── Screenshots/
 │
 ├── Task - 3 (Country-Wise Netflix Content Analysis)/
+│   ├── Dataset.csv
+│   ├── task3_analysis.py
+│   ├── top_10_countries_bar.png
+│   ├── top_10_countries_pie.png
+│   ├── task3_summary_findings.txt
+│   ├── README.md
+│   └── Screenshots/
+│
 ├── Task - 4 (Trend Analysis by Release Year)/
 ├── Task - 5 (Content Rating & Genre Analysis)/
 └── Task - 6 (Netflix Business Insights Report)/
@@ -77,30 +85,30 @@ Meezan-Data-Analytics-Journey/
 
 The internship consists of **6 practical projects**, and successful completion requires finishing **any 4 tasks**.
 
-| Task | Difficulty | Status |
-|------|------------|--------|
-| ✅ Task 1 – Netflix Data Cleaning & Preparation | Easy | Completed |
-| ✅ Task 2 – Content Type Analysis Dashboard | Easy | Completed |
-| ⏳ Task 3 – Country-Wise Netflix Content Analysis | Medium | Upcoming |
-| ⏳ Task 4 – Trend Analysis by Release Year | Medium | Upcoming |
-| ⏳ Task 5 – Content Rating & Genre Analysis | Advanced | Upcoming |
-| ⏳ Task 6 – Netflix Business Insights Report | Advanced | Upcoming |
+| Task                                             | Difficulty | Status    |
+| ------------------------------------------------ | ---------- | --------- |
+| ✅ Task 1 – Netflix Data Cleaning & Preparation   | Easy       | Completed |
+| ✅ Task 2 – Content Type Analysis Dashboard       | Easy       | Completed |
+| ✅ Task 3 – Country-Wise Netflix Content Analysis | Medium     | Completed |
+| ⏳ Task 4 – Trend Analysis by Release Year        | Medium     | Upcoming  |
+| ⏳ Task 5 – Content Rating & Genre Analysis       | Advanced   | Upcoming  |
+| ⏳ Task 6 – Netflix Business Insights Report      | Advanced   | Upcoming  |
 
 ---
 
 # 📈 Internship Progress
 
-| Metric | Status |
-|--------|--------|
-| Required Tasks | **4** |
-| Available Tasks | **6** |
-| Completed | **2** |
-| Current Progress | **50%** |
+| Metric           | Status  |
+| ---------------- | ------- |
+| Required Tasks   | **4**   |
+| Available Tasks  | **6**   |
+| Completed        | **3**   |
+| Current Progress | **75%** |
 
 ### Progress Bar
 
 ```text
-██████████░░░░░░░░░░ 50%
+███████████████░░░░░ 75%
 ```
 
 ---
@@ -111,21 +119,21 @@ The internship consists of **6 practical projects**, and successful completion r
 
 ### Highlights
 
-- Imported and explored the Netflix dataset
-- Handled missing values
-- Removed duplicate records
-- Standardized data formatting
-- Converted date columns
-- Exported cleaned dataset
-- Generated cleaning report
+* Imported and explored the Netflix dataset
+* Handled missing values
+* Removed duplicate records
+* Standardized data formatting
+* Converted date columns
+* Exported cleaned dataset
+* Generated cleaning report
 
 ### Deliverables
 
-- ✅ Python Source Code
-- ✅ Cleaned Dataset
-- ✅ Cleaning Report
-- ✅ Documentation
-- ✅ Screenshots
+* ✅ Python Source Code
+* ✅ Cleaned Dataset
+* ✅ Cleaning Report
+* ✅ Documentation
+* ✅ Screenshots
 
 ---
 
@@ -133,22 +141,48 @@ The internship consists of **6 practical projects**, and successful completion r
 
 ### Highlights
 
-- Loaded the cleaned Netflix dataset
-- Calculated Movies and TV Shows distribution
-- Compared content proportions
-- Created Bar Chart visualization
-- Created Pie Chart visualization
-- Generated analytical summary report
-- Produced business insights
+* Loaded the cleaned Netflix dataset
+* Calculated Movies and TV Shows distribution
+* Compared content proportions
+* Created Bar Chart visualization
+* Created Pie Chart visualization
+* Generated analytical summary report
+* Produced business insights
 
 ### Deliverables
 
-- ✅ Python Source Code
-- ✅ Bar Chart
-- ✅ Pie Chart
-- ✅ Summary Report
-- ✅ Documentation
-- ✅ Screenshots
+* ✅ Python Source Code
+* ✅ Bar Chart
+* ✅ Pie Chart
+* ✅ Summary Report
+* ✅ Documentation
+* ✅ Screenshots
+
+---
+
+## 🌍 Task 3 – Country-Wise Netflix Content Analysis
+
+### Highlights
+
+* Loaded and analyzed the Netflix dataset
+* Cleaned and extracted country information
+* Split records containing multiple countries
+* Calculated content count by country
+* Identified the Top 10 content-producing countries
+* Created Horizontal Bar Chart
+* Created Pie Chart
+* Generated business insights
+* Prepared analytical summary report
+
+### Deliverables
+
+* ✅ Python Source Code
+* ✅ Country Ranking Analysis
+* ✅ Bar Chart
+* ✅ Pie Chart
+* ✅ Summary Report
+* ✅ Documentation
+* ✅ Screenshots
 
 ---
 
@@ -156,41 +190,45 @@ The internship consists of **6 practical projects**, and successful completion r
 
 Throughout this internship, I am strengthening my skills in:
 
-- Python Programming
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Matplotlib
-- Seaborn
-- Business Analytics
-- Data Storytelling
-- Git & GitHub
-- Technical Documentation
+* Python Programming
+* Pandas
+* NumPy
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* GroupBy Operations
+* Data Aggregation
+* Data Visualization
+* Matplotlib
+* Seaborn
+* Business Analytics
+* Business Insight Generation
+* Data Storytelling
+* Git & GitHub
+* Technical Documentation
 
 ---
 
 # 📌 Repository Highlights
 
-- 📊 Real-world Netflix dataset
-- 🧹 Data Cleaning & Preparation
-- 📈 Exploratory Data Analysis
-- 📉 Data Visualization
-- 📋 Business Insights
-- 📝 Professional Documentation
-- 📂 Organized Project Structure
-- 🚀 Portfolio-Ready Projects
+* 📊 Real-world Netflix Dataset
+* 🧹 Data Cleaning & Preparation
+* 📺 Content Type Analysis Dashboard
+* 🌍 Country-Wise Content Analysis
+* 📈 Exploratory Data Analysis
+* 📉 Professional Data Visualization
+* 📋 Business Insights
+* 📝 Professional Documentation
+* 📂 Organized Project Structure
+* 🚀 Portfolio-Ready Projects
 
 ---
 
 # 📅 Upcoming Tasks
 
-- 🌍 Country-Wise Netflix Content Analysis
-- 📈 Trend Analysis by Release Year
-- 🎭 Content Rating & Genre Analysis
-- 📊 Netflix Business Insights Report
+* 📈 Trend Analysis by Release Year
+* 🎭 Content Rating & Genre Analysis
+* 📊 Netflix Business Insights Report
 
 ---
 
@@ -198,8 +236,8 @@ Throughout this internship, I am strengthening my skills in:
 
 ## Meezan Shaikh
 
-- 💻 **GitHub:** https://github.com/meezanshaikh18
-- 💼 **LinkedIn:** https://www.linkedin.com/in/meezanshaikh18/
+* 💻 **GitHub:** https://github.com/meezanshaikh18
+* 💼 **LinkedIn:** https://www.linkedin.com/in/meezan-shaikh-171304307/
 
 ---
 
