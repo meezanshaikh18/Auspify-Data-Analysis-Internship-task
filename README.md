@@ -214,5 +214,6 @@ Your support motivates me to continue building and sharing more real-world Data 
 # 📜 License
 
 This repository is created for educational purposes as part of the **Data Analysis Using Python Internship at Auspify Technologies**.
+The code, documentation, visualizations, and reports were created by me as part of the internship assignments and are shared for educational and portfolio purposes. Any datasets, trademarks, or brand names referenced belong to their respective owners.
 
 © 2026 **Meezan Shaikh**. All Rights Reserved.
