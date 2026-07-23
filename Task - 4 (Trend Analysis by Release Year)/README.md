@@ -213,7 +213,7 @@ This project serves as a foundation for more advanced Netflix analytics, includi
 
 # 📸 Project Preview
 
-Project screenshots, charts, and execution outputs are available in the **Screenshots/** folder.
+Project screenshots, charts, and execution outputs are available in the **charts/** folder.
 
 ---
 
