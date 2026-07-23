@@ -1,0 +1,31 @@
+
+NETFLIX CONTENT TREND ANALYSIS - SUMMARY
+==========================================
+
+1. Overall Growth Pattern:
+   - Content releases were minimal before 2000, then grew sharply from 2007 onward.
+   - Titles grew from just 88 in 2007
+     to a peak of 1146 in 2018 — 
+     roughly a 13x increase in 11 years.
+
+2. Peak & Decline:
+   - 2018 was the peak year for content releases.
+   - From 2019–2021, releases declined year-over-year (-10.1%, -7.5%, -37.9%).
+   - The 2021 drop is sharp partly because the dataset likely doesn't capture 
+     the full year (data collection cutoff mid-2021).
+
+3. Movies vs TV Shows:
+   - Movies have historically dominated Netflix's catalog.
+   - However, TV Shows grew faster in recent years: TV Show releases rose from 
+     14 (2007) to 436 (2020), while Movies fell from a 2017 high of 767 down to 
+     277 by 2021.
+   - This suggests a strategic shift toward TV Show content in recent years, 
+     likely due to higher viewer retention/binge-watching value.
+
+4. Business Insight:
+   - Netflix's aggressive content expansion (2015-2018) aligns with its global 
+     subscriber growth push during that period.
+   - The recent slowdown may reflect a shift toward quality over quantity, 
+     tighter content budgets, or incomplete recent-year data.
+   - The rising TV Show share indicates increasing investment in serialized 
+     content to boost engagement and reduce churn.

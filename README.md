@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analysis Using Python Internship** repository at **Auspify Technologies**.
 
-This repository showcases my internship journey through real-world data analysis projects using **Python** and industry-standard data analytics libraries. Throughout this internship, I work on practical tasks involving data cleaning, exploratory data analysis (EDA), visualization, and business insights while maintaining professional project documentation and GitHub best practices.
+This repository showcases my internship journey through real-world data analysis projects using **Python** and industry-standard data analytics libraries. Throughout this internship, I completed practical tasks involving data cleaning, exploratory data analysis (EDA), visualization, and business insights while maintaining professional project documentation and GitHub best practices.
 
 ---
 
@@ -75,6 +75,15 @@ Auspify-Data-Analysis-Internship/
 │   └── Screenshots/
 │
 ├── Task - 4 (Trend Analysis by Release Year)/
+│   ├── Dataset.csv
+│   ├── task4_trend_analysis.py
+│   ├── yearly_trend.png
+│   ├── recent_trend.png
+│   ├── movie_vs_tvshow_trend.png
+│   ├── task4_summary_findings.txt
+│   ├── README.md
+│   └── Screenshots/
+│
 ├── Task - 5 (Content Rating & Genre Analysis)/
 └── Task - 6 (Netflix Business Insights Report)/
 ```
@@ -90,25 +99,25 @@ The internship consists of **6 practical projects**, and successful completion r
 | ✅ Task 1 – Netflix Data Cleaning & Preparation   | Easy       | Completed |
 | ✅ Task 2 – Content Type Analysis Dashboard       | Easy       | Completed |
 | ✅ Task 3 – Country-Wise Netflix Content Analysis | Medium     | Completed |
-| ⏳ Task 4 – Trend Analysis by Release Year        | Medium     | Upcoming  |
-| ⏳ Task 5 – Content Rating & Genre Analysis       | Advanced   | Upcoming  |
-| ⏳ Task 6 – Netflix Business Insights Report      | Advanced   | Upcoming  |
+| ✅ Task 4 – Trend Analysis by Release Year        | Medium     | Completed |
+| ⏳ Task 5 – Content Rating & Genre Analysis       | Advanced   | Optional  |
+| ⏳ Task 6 – Netflix Business Insights Report      | Advanced   | Optional  |
 
 ---
 
 # 📈 Internship Progress
 
-| Metric           | Status  |
-| ---------------- | ------- |
-| Required Tasks   | **4**   |
-| Available Tasks  | **6**   |
-| Completed        | **3**   |
-| Current Progress | **75%** |
+| Metric           | Status   |
+| ---------------- | -------- |
+| Required Tasks   | **4**    |
+| Available Tasks  | **6**    |
+| Completed        | **4**    |
+| Current Progress | **100%** |
 
 ### Progress Bar
 
 ```text
-███████████████░░░░░ 75%
+████████████████████ 100%
 ```
 
 ---
@@ -186,9 +195,34 @@ The internship consists of **6 practical projects**, and successful completion r
 
 ---
 
+## 📈 Task 4 – Trend Analysis by Release Year
+
+### Highlights
+
+* Loaded and analyzed the Netflix dataset
+* Organized content by release year
+* Calculated yearly content releases
+* Identified growth and decline trends
+* Compared Movies and TV Shows across different years
+* Created multiple trend visualizations
+* Generated business insights
+* Prepared analytical summary report
+
+### Deliverables
+
+* ✅ Python Source Code
+* ✅ Yearly Trend Chart
+* ✅ Recent Trend Chart
+* ✅ Movie vs TV Show Trend Chart
+* ✅ Summary Report
+* ✅ Documentation
+* ✅ Screenshots
+
+---
+
 # 📚 Skills Gained
 
-Throughout this internship, I am strengthening my skills in:
+Throughout this internship, I strengthened my skills in:
 
 * Python Programming
 * Pandas
@@ -198,6 +232,8 @@ Throughout this internship, I am strengthening my skills in:
 * Exploratory Data Analysis (EDA)
 * GroupBy Operations
 * Data Aggregation
+* Time Series Analysis
+* Trend Analysis
 * Data Visualization
 * Matplotlib
 * Seaborn
@@ -215,7 +251,7 @@ Throughout this internship, I am strengthening my skills in:
 * 🧹 Data Cleaning & Preparation
 * 📺 Content Type Analysis Dashboard
 * 🌍 Country-Wise Content Analysis
-* 📈 Exploratory Data Analysis
+* 📈 Release Year Trend Analysis
 * 📉 Professional Data Visualization
 * 📋 Business Insights
 * 📝 Professional Documentation
@@ -224,9 +260,10 @@ Throughout this internship, I am strengthening my skills in:
 
 ---
 
-# 📅 Upcoming Tasks
+# 📅 Future Enhancements
 
-* 📈 Trend Analysis by Release Year
+Although the internship required completing **4 out of 6 tasks**, I plan to continue expanding this repository by implementing the remaining advanced projects:
+
 * 🎭 Content Rating & Genre Analysis
 * 📊 Netflix Business Insights Report
 
@@ -251,7 +288,7 @@ Your support motivates me to continue building and sharing more real-world Data 
 
 # 📜 License
 
-This repository is created for educational purposes as part of the **Data Analysis Using Python Internship at Auspify Technologies**.
+This repository is created for educational purposes as part of the **Data Analysis Using Python Internship** at **Auspify Technologies**.
 
 The code, documentation, visualizations, and reports were created by me as part of the internship assignments and are shared for educational and portfolio purposes. Any datasets, trademarks, or brand names referenced belong to their respective owners.
 
